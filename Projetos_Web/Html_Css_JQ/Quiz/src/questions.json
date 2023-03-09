@@ -1,0 +1,13 @@
+[
+    {
+        "Number":"1",
+        "question":"Quem é mais lindo(a)?",
+        "img":"./pets.jpg",
+        "answer-1":"Caska",
+        "answer-2":"Gutts",
+        "answer-3":"Sayore",
+        "answer-4":"Raissa",
+        "answer-correty":"Caska"
+    }
+
+]
